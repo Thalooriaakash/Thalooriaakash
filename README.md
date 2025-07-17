@@ -33,7 +33,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thalooriaakash&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thalooriaakash&layout=compact&theme=radical)
 
 ---
