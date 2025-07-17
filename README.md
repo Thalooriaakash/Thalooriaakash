@@ -5,7 +5,7 @@
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aakash-thaloori)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://aakashthaloori.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://thalooriaakash.github.io/portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-akkiaakash09@gmail.com-red)](mailto:akkiaakash09@gmail.com)
 
 ---
